@@ -1,0 +1,10 @@
+*.class
+.*
+.gradle/*
+.idea/*
+build/*
+build
+
+*.iml
+
+!.gitignore
